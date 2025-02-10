@@ -13,11 +13,10 @@
 
 ### 🚀 About Me  
 - 🎨 **Creative Technologist** passionate about **web development, digital design & motion design**  
-- 💻 Skilled in **React, Vue, Next.js, Adobe Suite & Power BI**  
+- 💻 Skilled in **React, Vue, Next.js, Adobe Suite**  
 - 🎮 **Gaming enthusiast** & **3D web developer**  
-- 🌍 Looking to **travel before committing to full-time work**  
 - 🎓 Bachelor's in **Multimedia & Creative Technologies** (EHB)  
-- 🇳🇱 Native **Dutch speaker**, fluent in **English (B2)**  
+- 🇳🇱 Native **Dutch speaker**, fluent in **English**  
 
 ---
 
@@ -60,9 +59,9 @@
 
 ### 📫 Contact Me  
 <p align="center">
-  <a href="jouw-portfolio-url"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=google-chrome"></a>  
+  <a href="biekebellot.com"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=google-chrome"></a>  
   <a href="jouw-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>  
-  <a href="mailto:jouw-email"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>  
+  <a href="bltbieke@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>  
 </p>
 
 ---
@@ -72,7 +71,3 @@
 - 🍹 **Cocktail video** featuring a mobile cocktail truck  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jouw-github-username&show_icons=true&theme=radical" />
-</p>
