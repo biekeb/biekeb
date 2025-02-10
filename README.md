@@ -18,7 +18,8 @@
 - 💻 Skilled in **React, Vue, Next.js, Adobe Suite**  
 - 🎮 **Gaming enthusiast** & **3D web developer**  
 - 🎓 Bachelor's in **Multimedia & Creative Technologies** (EHB)  
-- 🇳🇱 Native **Dutch speaker**, fluent in **English**  
+- Native **Dutch speaker**, fluent in **English**
+- 🔍 Always learning and exploring new technologies, frameworks, and design trends to push my skills further.
 
 ---
 
