@@ -34,9 +34,14 @@
   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40"></a>
 </p>
 
-### **Design & Editing**  
+### **Design & Motion Graphics**  
 <p align="center">
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40"></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40"></a>
+  <a href="https://www.adobe.com/products/indesign.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" height="40"></a>
+  <a href="https://www.adobe.com/products/xd.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" height="40"></a>
+  <a href="https://www.figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40"></a>
+  <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" height="40"></a>
   <a href="https://www.adobe.com/products/premiere.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" height="40"></a>
   <a href="https://www.blender.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40"></a>
   <a href="https://www.maxon.net/en/"><img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" height="40"></a>
