@@ -47,6 +47,15 @@
   <a href="https://www.maxon.net/en/"><img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" height="40"></a>
 </p>
 
+### 🕹️ **3D Design & Game Development**  
+<p align="center">
+  <a href="https://www.blender.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40"></a>
+  <a href="https://www.autodesk.com/products/maya/overview"><img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Autodesk_Maya_logo.svg" height="40"></a>
+  <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="40"></a>
+  <a href="https://www.unrealengine.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Unreal_Engine_Logo.svg" height="40"></a>
+</p>
+
+
 ---
 
 ### 📫 Contact Me  
