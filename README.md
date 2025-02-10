@@ -68,5 +68,5 @@
 ## 📬 Let's Connect  
 
 📌 I’m open to discussions on web development, digital design, and graphic design.  
-🔗 Connect with me on **[LinkedIn]([www.linkedin.com/in/bieke-bellot-b8b8a11b8](https://www.linkedin.com/in/bieke-bellot-b8b8a11b8/)``)**!  
+🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/bieke-bellot-b8b8a11b8/)**!  
 
