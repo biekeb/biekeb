@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Creative+Technologist;Full-Stack+Developer;3D+Web+Developer;Digital+Designer;Tech+Enthusiast)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sunnypatell&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=biekeb&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react" />
   <img src="https://img.shields.io/badge/Frontend-Vue-green?style=flat&logo=vue.js" />
   <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=flat&logo=next.js" />
@@ -43,7 +43,7 @@
 
 
 ### 🎬 **Design**  
-<p align="center">
+<p>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40"></a>
   <a href="https://www.adobe.com/products/illustrator.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40"></a>
   <a href="https://www.adobe.com/products/indesign.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" height="40"></a>
@@ -52,7 +52,7 @@
 </p>
 
 ### 🕹️ **3D Design & Game Development**  
-<p align="center">
+<p>
   <a href="https://www.blender.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40"></a>
   <a href="https://www.autodesk.com/products/maya/overview"><img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Autodesk_Maya_logo.svg" height="40"></a>
   <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="40"></a>
