@@ -26,7 +26,7 @@
 ## 🔧 Tech & Tools  
 
 ### 👩🏻‍💻 **Programming & Development**  
-<p align="center">
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40"></a>
   <a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/a/a7/React-icon.svg" height="40"></a>
@@ -55,9 +55,9 @@
 ### 🕹️ **3D Design & Game Development**  
 <p>
   <a href="https://www.blender.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40"></a>
-  <a href="https://www.autodesk.com/products/maya/overview"><img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Autodesk_Maya_logo.svg" height="40"></a>
+  <a href="https://www.autodesk.com/products/maya/overview"><img src=(https://nl.wikipedia.org/wiki/Autodesk_Maya#/media/Bestand:Autodesk_Maya_logo.svg)" height="40"></a>
   <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="40"></a>
-  <a href="https://www.unrealengine.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Unreal_Engine_Logo.svg" height="40"></a>
+  <a href="https://www.unrealengine.com/"><img src="(https://nl.wikipedia.org/wiki/Unreal_Engine#/media/Bestand:Unreal_Engine_Logo.svg)" height="40"></a>
 </p>
 
 
