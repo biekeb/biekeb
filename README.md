@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Bieke Bellot! 👋</h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=656BF7&random=false&width=435&lines=Full-Stack+Developer;Backend+Engineer;Cloud+Computing+Learner;DevOps+Enthusiast)](https://git.io/typing-svg)
 
 
