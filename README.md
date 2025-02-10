@@ -55,14 +55,6 @@
 </p>
 
 
----
-
-### 📫 Contact Me  
-<p align="center">
-  <a href="biekebellot.com"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=google-chrome"></a>  
-  <a href="jouw-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>  
-  <a href="bltbieke@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>  
-</p>
 
 ---
 
@@ -71,3 +63,10 @@
 - 🍹 **Cocktail video** featuring a mobile cocktail truck  
 
 ---
+
+
+## 📬 Let's Connect  
+
+📌 I’m open to discussions on web development, digital design, and graphic design.  
+🔗 Connect with me on **[LinkedIn]([www.linkedin.com/in/bieke-bellot-b8b8a11b8](https://www.linkedin.com/in/bieke-bellot-b8b8a11b8/)``)**!  
+
