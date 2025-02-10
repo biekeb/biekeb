@@ -43,7 +43,7 @@
 
 
 
-### 🎬 **Design**  
+### 🎨 ** Graphic Design**  
 <p>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40"></a>
   <a href="https://www.adobe.com/products/illustrator.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40"></a>
